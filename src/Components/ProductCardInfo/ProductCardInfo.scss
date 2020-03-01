@@ -1,0 +1,9 @@
+.ProductCardInfo {
+    height: 70px;
+    display: grid;
+    text-align: left;
+
+    :last-child {
+        font-weight: bold;
+    }
+}

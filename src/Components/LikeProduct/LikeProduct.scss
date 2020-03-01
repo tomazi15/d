@@ -1,0 +1,20 @@
+.LikeProduct{
+      
+    &__button {
+        position: absolute;
+        left: 83%;
+        top: 1%;
+        background: white;
+        color: black;
+        border-radius: 10px;
+    }
+
+    &__like {
+        position: absolute;
+        left: 83%;
+        top: 1%;
+        background: red;
+        color: white;
+        border-radius: 10px;
+    }
+}

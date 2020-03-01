@@ -1,0 +1,19 @@
+.Header {
+    margin-bottom: 20px;
+
+    &__likedList {
+        position: absolute;
+        left: 85%;
+        padding-right: 30px;
+        background: white;
+        color: black;
+        border: 1px solid black;
+        border-radius: 10px;
+
+        span {
+            position: absolute;
+            padding-left: 10px;
+            padding-top: 2px;
+        }
+    }
+}
